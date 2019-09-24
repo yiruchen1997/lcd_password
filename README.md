@@ -13,9 +13,4 @@
 
 功能
 ----
-
-> Server端 : <br><br>
-![](https://github.com/yiruchen1997/udp_to_tcp/blob/master/udp_to_tcp_server.JPG)
-
-> Client端 : <br><br>
-![](https://github.com/yiruchen1997/udp_to_tcp/blob/master/udp_to_tcp_client.JPG)
+![](https://github.com/yiruchen1997/lcd_password/blob/master/lcd_password.JPG)
